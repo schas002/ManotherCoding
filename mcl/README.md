@@ -2,4 +2,4 @@
 
 A work-in-progress concise language.
 
-- [Specification](mcl/spec.md)
+- [Specification](spec.md)
